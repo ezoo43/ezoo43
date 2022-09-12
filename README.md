@@ -6,5 +6,5 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Gachon University.
-- 🌱 I’m currently learning AI & SoftWare.
+- 🌱 I’m currently learning AI & SoftWare..
 
